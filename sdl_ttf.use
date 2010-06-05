@@ -1,0 +1,6 @@
+Name: SDL_ttf
+Description: Sample library for using TrueType fonts in SDL
+Pkgs: sdl freetype2
+Libs: -lSDL_ttf
+Includes: SDL_ttf.h
+SourcePath: .
